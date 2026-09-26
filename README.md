@@ -396,8 +396,4 @@ Potential extensions include:
 
 ## Citation and dataset attribution
 
-This project uses the PhysioNet/CinC Challenge 2016 heart-sound dataset through a Kaggle-accessible mirror. Please consult the original dataset documentation and license/usage conditions before redistributing data or publishing results.
-
-## License
-
-No project license is currently specified. Add an appropriate license before distributing the source code or derived materials.
+This project uses the PhysioNet/CinC Challenge 2016 heart-sound dataset through a Kaggle-accessible mirror. 
